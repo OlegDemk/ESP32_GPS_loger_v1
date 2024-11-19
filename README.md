@@ -1,4 +1,4 @@
-"# ESP32_GPS_loger_v1" 
+
 GPS logger can log in GPS data every 5 seconds into Micro SD card. 
 
 File can be downloaded over Wifi HTTP server or from MicroSD card. 
